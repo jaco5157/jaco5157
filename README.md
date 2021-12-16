@@ -3,7 +3,7 @@
 My name is Jacob, and this is my personal GitHub profile. 
 
 - 💼 I work at [Handicapmidler.dk](Handicapmidler.dk "Handicapmidler.dk - Mobility aids")
-- 🌱 I study Software Engineering at the University of Southern Denmark (Take a look at my [Student Profile!](https://github.com/jalet19 "Jalet19 at the University of Southern Denmark"))
+- 🌱 I study Software Engineering at the University of Southern Denmark (Take a look at my [Student Profile!](https://github.com/jalet19 "Jalet19 @ the University of Southern Denmark"))
 - ✈️ I want to learn more about Docker, Microservices and building automated CI/CD pipelines
 
 
